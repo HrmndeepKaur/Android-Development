@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Quiz_App</string>
+    <string name="Correct">صحيح</string>
+    <string name="wrong">خطأ</string>
+    <string name="ok_btn">موافق</string>
+    <string name="cancel_btn">إلغاء</string>
+    <string name="number_of_ques">أدخل عدد الأسئلة أقل من</string>
+    <string name="q1">يوم ميلاد كندا هو الأول من يوليو.</string>
+    <string name="q2">عاصمة كندا هي تورنتو</string>
+    <string name="q3">أكبر مدينة في كندا هي فانكوفر.</string>
+    <string name="q4">كندا لديها 10 مقاطعات.</string>
+    <string name="q5">أصغر مقاطعة في كندا هي جزيرة الأمير إدوارد.</string>
+    <string name="q6">ريجينا هي المدينة الكندية التي تشهد أقل تساقط للثلوج السنوي</string>
+    <string name="q7">مونتريال هي ثاني أكبر مدينة فرنكوفونية (بعد باريس).</string>
+    <string name="q8">هوكي الجليد ليس الرياضة الوطنية لفصل الشتاء في كندا.</string>
+    <string name="q9">سانت جونز في نيوفاوندلاند هي أقدم مدينة في أمريكا الشمالية.</string>
+    <string name="q10">هناك خمسة مناطق زمنية في كندا.</string>
+    <string name="get_the_average">احصل على المتوسط</string>
+    <string name="select_the_number_of_questions">حدد عدد الأسئلة</string>
+    <string name="reset_the_saved_result">إعادة تعيين النتيجة المحفوظة</string>
+    <string name="correctAns">صحيح</string>
+    <string name="wrongAns">خطأ</string>
+    <string name="totalResult">"إجاباتك الصحيحة / إجمالي عدد الأسئلة = "</string>
+    <string name="div" translatable="false">/</string>
+    <string name="score">"نتيجتك: "</string>
+    <string name="out_of">"من"</string>
+    <string name="save">حفظ</string>
+    <string name="ignore">تجاهل</string>
+</resources>

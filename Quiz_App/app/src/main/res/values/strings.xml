@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Quiz_App</string>
+    <string name="Correct">True</string>
+    <string name="wrong">False</string>
+    <string name="ok_btn">OK</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="number_of_ques">Enter the number of questions less than</string>
+    <string name="q1">Canada\'s birthday is on July 1st.</string>
+    <string name="q2">Capital City of Canada is Toronto.</string>
+    <string name="q3">Largest City in Canada is Vancouver</string>
+    <string name="q4">Canada has 10 provinces.</string>
+    <string name="q5">The smallest province in Canada id Prince Edward Island.</string>
+    <string name="q6">Regina is the Canadian city with lowest annual snowfall.</string>
+    <string name="q7">Montreal is the second-largest Frenc-speaking city(after Paris).</string>
+    <string name="q8">Ice Hockey is not national winter sport of Canada</string>
+    <string name="q9">St. John\'s Newfoundland is the oldest city of North America.</string>
+    <string name="q10">There are five time zones in Canada.</string>
+    <string name="get_the_average">Get the Average</string>
+    <string name="select_the_number_of_questions">Select the Number of Questions</string>
+    <string name="reset_the_saved_result">Reset the Saved Result</string>
+    <string name="correctAns">Correct</string>
+    <string name="wrongAns">Wrong</string>
+    <string name="totalResult">"Your Correct answers / Total number of questions = "</string>
+    <string name="div" translatable="false">/</string>
+    <string name="score">"Your Score: "</string>
+    <string name="out_of">" out of "</string>
+    <string name="save">SAVE</string>
+    <string name="ignore">IGNORE</string>
+</resources>

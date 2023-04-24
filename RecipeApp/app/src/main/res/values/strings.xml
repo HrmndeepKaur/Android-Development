@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="main_title">This is Recipe App.</string>
+    <string name="mainDesc">Search for a recipe or view all your saved favourite here</string>
+    <string name="favourite_recipes">Favourite Recipes</string>
+    <string name="fav_desc">Choose a recipe to view details. Swipe right to delete from favourites.</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="cuisine_type">Cuisine Type:</string>
+    <string name="meal_type">Meal Type:</string>
+    <string name="calories">Calories:</string>
+    <string name="total_time">Total TIme:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="recipeSavedtoDatabase">Recipe saved to database.</string>
+    <string name="favourite_recipe">Favourite-Recipes</string>
+    <string name="Search">Search For new Recipes...</string>
+    <string name="main_search">Search for recipes</string>
+</resources>

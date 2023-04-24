@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Quiz_App</string>
+    <string name="Correct">सही</string>
+    <string name="wrong">गलत</string>
+    <string name="ok_btn">ठीक</string>
+    <string name="cancel_btn">रद्द करें</string>
+    <string name="number_of_ques">प्रश्नों की संख्या अंत में दर्ज करें</string>
+    <string name="q1">कनाडा का जन्मदिन 1 जुलाई को होता है</string>
+    <string name="q2">कनाडा की राजधानी टोरंटो है।</string>
+    <string name="q3">कनाडा का सबसे बड़ा शहर वैंकूवर है।</string>
+    <string name="q4">कनाडा में 10 प्रांत हैं।</string>
+    <string name="q5">कनाडा का सबसे छोटा प्रांत प्रिंस एडवर्ड आइलैंड है।</string>
+    <string name="q6">रेजीना कनाडा का शहर है जिसमें सबसे कम वार्षिक बर्फबारी होती है।</string>
+    <string name="q7">मोंट्रियल दूसरा सबसे बड़ा फ़्रेंच बोलने वाला शहर है (पेरिस के बाद)</string>
+    <string name="q8">आइस हॉकी कनाडा का राष्ट्रीय शीतकालीन खेल नहीं है।</string>
+    <string name="q9">सेंट जॉन्स न्यूफाउंडलैंड उत्तर अमेरिका का सबसे पुराना शहर है।</string>
+    <string name="q10">कनाडा में पांच समय क्षेत्र हैं।</string>
+    <string name="get_the_average">औसत प्राप्त करें</string>
+    <string name="select_the_number_of_questions">प्रश्नों की संख्या चुनें</string>
+    <string name="reset_the_saved_result">सहेजी गई परिणाम रीसेट करें</string>
+    <string name="correctAns">सही</string>
+    <string name="wrongAns">गलत</string>
+    <string name="totalResult">"आपके सही उत्तर / कुल प्रश्नों की संख्या = "</string>
+    <string name="div" translatable="false">/</string>
+    <string name="score">"आपका स्कोर: "</string>
+    <string name="out_of">"की"</string>
+    <string name="save">सहेजें</string>
+    <string name="ignore">अनदेखा करें</string>
+</resources>
